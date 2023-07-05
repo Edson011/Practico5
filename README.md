@@ -1,8 +1,8 @@
-# Capetas temporales en sistemas operativos
+# Carpetas temporales en sistemas operativos
 
 Las carpetas temporales son un directorio donde se encuentran o se almacenan los archivos temporales, los cuales han sidos generados por los distintos programas del sistema operativo.
 
-## Capertas temporales en cada sistema operativo:
+## Carpetas temporales en cada sistema operativo:
 
 ### Sistema Operativo                Carperta
 
