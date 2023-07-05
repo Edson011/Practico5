@@ -4,11 +4,11 @@ Las carpetas temporales son un directorio donde se encuentran o se almacenan los
 
 ## Carpetas temporales en cada sistema operativo:
 
-### Sistema Operativo                Carperta
+### Sistema Operativo ----------- Carperta
 
 windows      ------------------->    Temp           -----> "\Temp"
 
-Linux        ------------------->    Tmp            -----> "/tmp"  en algunos casos "/var/tmp"
+Linux         ------------------->    Tmp            -----> "/tmp"  en algunos casos "/var/tmp"
 
 MacOS        ------------------->    Temporary Items -----> "/Temporary Items"
 
